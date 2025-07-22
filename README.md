@@ -20,5 +20,10 @@ This is a GUI-based project using Java Swing, allowing users to perform basic AT
 - Java Swing (GUI)
 - NetBeans or IntelliJ
 - Ant Build System
-
-
+<br>
+# How to Run
+1. Clone or download the repository
+2. Open in NetBeans
+3. Build project and run "ATM.java"
+<br>
+Author : Soumya Sree T
