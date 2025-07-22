@@ -26,4 +26,4 @@ This is a GUI-based project using Java Swing, allowing users to perform basic AT
 2. Open in NetBeans
 3. Build project and run "ATM.java"
 <br>
-Author : Soumya Sree T
+# Author : Soumya Sree T
